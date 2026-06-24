@@ -66,5 +66,23 @@ This screenshot shows the final stage of the Domain Controller promotion process
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/62bb4ff0f3fb30fe4e1855a11eebe3c604d9ead6/Screenshot%202026-06-07%20095309.png)
 This screenshot shows the Windows Server login screen after DC01 has restarted following the Domain Controller promotion process. The login prompt now displays the domain name, confirming that the server has successfully joined and initialized the new Active Directory forest. This indicates that the promotion completed without errors and DC01 is now operating as the first Domain Controller in the environment.
 
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-07%20095439.png)
+This screenshot shows the Server Manager Dashboard on DC01 after successfully promoting the server to a Domain Controller. The AD DS and DNS roles are now fully installed and visible in the left navigation pane. Server Manager displays the post‑deployment status, confirming that the server is operating within the new Active Directory domain. This screen marks the beginning of post‑promotion verification and domain administration tasks.
 
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-07%20095550.png)
+This screenshot shows the Active Directory Users and Computers (ADUC) console on the newly promoted DC01 server. The domain has loaded successfully, displaying the default containers such as Builtin, Computers, Domain Controllers, ForeignSecurityPrincipals, Managed Service Accounts, and Users. This confirms that Active Directory is functioning correctly and that the domain structure has been created as part of the promotion process. The console is now ready for creating users, groups, and organizational units.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-08%20105325.png)
+This screenshot shows the Active Directory Users and Computers (ADUC) console on DC01, where new Organizational Units (OUs) are being created to structure the domain. The right‑click context menu is open on the domain name, displaying the option to create a new Organizational Unit. This step is part of organizing the Active Directory environment by separating users, computers, and administrative groups into dedicated OUs for better management and policy application.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-08%20105345.png)
+In this step, I opened Active Directory Users and Computers and expanded the domain structure to review the Organizational Units I created earlier. I selected the “Admin and Facilities” OU under the “Somwya IT Services” parent OU to verify that the user accounts I created—Admin Coordinator and Facilities Officer—were correctly placed inside the appropriate OU. This confirms that my OU structure and user organization in Active Directory are set up properly.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-08%20105419.png)
+In this step, I opened Active Directory Users and Computers and navigated to the “Users” OU inside my custom “Sowmya IT Services” structure. I created three user accounts named Client 01, Client 02, and Laptop 01, and placed them inside the Users OU. This step confirms that my user creation process is working correctly and that the accounts are stored in the right location within the domain.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-08%20105433.png)
+
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5ca381e8a7c028864e64c3f33f07cb12f38f21a5/Screenshot%202026-06-08%20105449.png)
 
