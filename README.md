@@ -1,3 +1,6 @@
 # Active-Directory-Lab
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/2ec14ec662a27d1d8247fa4de66a1ab6d7d6a175/Screenshot%202026-06-04%20090731.png)
 This screenshot shows the Server Manager dashboard on the DC01 virtual machine after installing Windows Server 2022. It provides an overview of key system details such as the computer name, workgroup, operating system version, hardware specifications, network configuration, firewall status, and security settings. The Events panel at the bottom displays recent system warnings and errors, which helps administrators verify the server’s health before promoting it to a Domain Controller.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/db4890db07f5fbf556eb405e5438dd882306e18a/Screenshot%202026-06-04%20090936.png)
+This screenshot shows the System Properties window on the DC01 server, where the computer name and workgroup settings are displayed. The server is currently named WIN-AT1G446T0RD and is part of the WORKGROUP environment. This step is typically performed before renaming the server and joining it to a domain. In the background, Server Manager provides additional system details such as OS version, hardware configuration, security status, and recent event logs.
