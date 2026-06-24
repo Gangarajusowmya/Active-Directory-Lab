@@ -63,4 +63,8 @@ This screenshot shows the Prerequisites Check page in the Active Directory Domai
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/70a8e9474bc223588f60cd160d8f45044ae4f667/Screenshot%202026-06-07%20094716.png)
 This screenshot shows the final stage of the Domain Controller promotion process on the DC01 server. After completing the AD DS configuration, the server automatically begins restarting to apply the changes required for domain controller functionality. A message indicates that the system is being configured and will reboot as part of the promotion process. This step confirms that the installation has succeeded and DC01 is transitioning into its role as the first Domain Controller in the new forest.
 
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/62bb4ff0f3fb30fe4e1855a11eebe3c604d9ead6/Screenshot%202026-06-07%20095309.png)
+This screenshot shows the Windows Server login screen after DC01 has restarted following the Domain Controller promotion process. The login prompt now displays the domain name, confirming that the server has successfully joined and initialized the new Active Directory forest. This indicates that the promotion completed without errors and DC01 is now operating as the first Domain Controller in the environment.
+
+
 
