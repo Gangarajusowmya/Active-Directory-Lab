@@ -24,5 +24,20 @@ This screenshot shows the Server Manager Dashboard on the DC01 server after comp
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/69d46350f0f66979877cbc636e45b8b6c4a2e956/Screenshot%202026-06-07%20080947.png)
 This screenshot shows the Server Manager Dashboard on the DC01 server after completing the initial network and system configuration. The dashboard provides quick access to essential setup tasks such as configuring the local server, adding roles and features, and managing server groups. This view confirms that the server is ready for the next stage of the Active Directory lab, which involves installing the AD DS role. The Roles and Server Groups section also displays the current status of File and Storage Services and the Local Server, helping administrators monitor events and service health before proceeding.
 
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/30f1d8820fb1961a31cf78b5efb596f459d2e670/Screenshot%202026-06-07%20081216.png)
+This screenshot shows the Add Roles and Features Wizard on the DC01 server, where the installation type is being selected. The Role-based or feature-based installation option is highlighted, which is the correct choice for installing Active Directory Domain Services on a single server. This step begins the process of adding server roles required to promote DC01 to a Domain Controller. The wizard confirms that DC01 is the destination server for the installation.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/4ce396fc4e3120bfb960fc7856afb05f8c1fa3b2/Screenshot%202026-06-07%20081231.png)
+This screenshot shows the Server Selection page in the Add Roles and Features Wizard on the DC01 server. The wizard displays the available servers in the server pool, and DC01 is selected as the destination for installing new roles and features. The server entry shows its hostname, static IP address (192.168.1.10), and operating system version. This step confirms that the correct server has been chosen before proceeding with the installation of Active Directory Domain Services.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/f459ec72123feaf6286ac84a4235888cc12051a0/Screenshot%202026-06-07%20081346.png)
+This screenshot shows the Server Roles page in the Add Roles and Features Wizard on the DC01 server. The Active Directory Domain Services (AD DS) role is being selected for installation, which is the core requirement for promoting DC01 to a Domain Controller. Selecting this role automatically adds the necessary management tools and supporting features. This step marks the beginning of the Active Directory setup process.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/f459ec72123feaf6286ac84a4235888cc12051a0/Screenshot%202026-06-07%20081528.png)
+This screenshot shows the confirmation page in the Add Roles and Features Wizard on the DC01 server. The wizard is preparing to install the Active Directory Domain Services (AD DS) role along with the required management tools. This step allows the administrator to review the selected role and features before beginning the installation. Installing AD DS is a key step in promoting DC01 to a Domain Controller.
+
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/f459ec72123feaf6286ac84a4235888cc12051a0/Screenshot%202026-06-07%20081607.png)
+This screenshot shows the installation progress page in the Add Roles and Features Wizard on the DC01 server. The wizard is actively installing the Active Directory Domain Services (AD DS) role and its required components. A progress bar indicates that the installation is underway, and Server Manager is handling the deployment in the background. This step confirms that the AD DS role is being successfully installed before the server can be promoted to a Domain Controller.
+
 
 
