@@ -89,5 +89,7 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 This screenshot shows the Active Directory Users and Computers (ADUC) console with the HR Department OU selected under the domain structure. It demonstrates role-based identity management where users and groups such as HR Executive, HR Manager, HR Recruiter, and the HR Group (Security Group) are created and organized within the HR Department OU. This setup reflects structured administration of users and access control in a Windows Server Active Directory environment.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5f3ecd4bf9a9d40431c990b24d5c28448374c2b5/Screenshot%202026-06-08%20105538.png)
 This screenshot shows the Active Directory Users and Computers (ADUC) console with the IT Department OU selected under the domain structure. It displays the organization of IT-related identities, including the IT Security Group and users such as IT Admin, IT Network Engineer, IT Support L1, and IT Support L2, demonstrating role-based access and structured user management within a Windows Server Active Directory environment.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/727271bbfab4acbf2f44653b136a0a87829cb8fe/Screenshot%202026-06-08%20105559.png)
+
 
 
