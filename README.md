@@ -113,6 +113,7 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Sales and Marketing” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Sales and added two user accounts: Sales Executive and Sales Manager. This screenshot shows the Sales group properties window with both members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future sales-related permissions and role management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/8e18f0e962771f4644244ac943c39f756a864907/Screenshot%202026-06-08%20120103.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Security/Cyber Security” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Security and added two user accounts: Security Analyst and Security Engineer. This screenshot shows the Security group properties window with both members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future security-related permissions and role management.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/f601135f6c54d913a454917d69c7a9a9b4ac93a6/Screenshot%202026-06-08%20120125.png)
 
 
 
