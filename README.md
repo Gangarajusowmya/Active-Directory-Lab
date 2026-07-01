@@ -95,6 +95,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Security/Cyber Security” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Security and added two user accounts: Security Analyst and Security Engineer. This screenshot shows these objects inside the Security/Cyber Security OU, confirming that the group and user accounts were successfully created and organized in the correct location for future permission management and security role assignments.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/b91cecd203d417580b4484487bd39ffe86a2ac5c/Screenshot%202026-06-08%20105628.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Service Accounts” Organizational Unit inside my custom “Sowmya IT Services” structure. I created two service accounts named “svc Backup” and “svc sql.” This screenshot shows these accounts inside the Service Accounts OU, confirming that they were successfully created and placed in the correct location for future use in automated tasks, backups, and application services.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/48ca215c424a1cbcdd578dbe6efe4484d21a9e4e/Screenshot%202026-06-08%20105643.png)
+
 
 
 
