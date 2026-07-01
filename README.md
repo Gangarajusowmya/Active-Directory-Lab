@@ -109,6 +109,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Finance Department” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Finance and added three user accounts: Finance Accounts, Finance Analyst, and Finance Payroll. This screenshot shows the Finance group properties window with all three members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future finance-related permissions and role management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/5f3abd0a45462e412a518615dece2a12da2b62a9/Screenshot%202026-06-08%20120028.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “IT Department” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named IT and added four user accounts: IT Admin, IT Network Engineer, IT Support L1, and IT Support L2. This screenshot shows the IT group properties window with all four members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future IT-related permissions and role management.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/2e7cc77e744975539e9dff4ef90f7b563b719077/Screenshot%202026-06-08%20120047.png)
+
 
 
 
