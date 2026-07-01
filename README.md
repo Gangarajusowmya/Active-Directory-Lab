@@ -106,6 +106,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/d3757b5a9ef1128c98c5097e2301f41788549242/Screenshot%202026-06-08%20115927.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Delivery Projects” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Projects and added three user accounts: Project Coordinator, Project Engineer, and Project Manager. This screenshot shows the Projects group properties window with all three members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future project-related permissions and role management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/b19b3645c244d4c2551ccc5962cab832d27324ad/Screenshot%202026-06-08%20115949.png)
+In this step, I opened Active Directory Users and Computers and navigated to the “Finance Department” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Finance and added three user accounts: Finance Accounts, Finance Analyst, and Finance Payroll. This screenshot shows the Finance group properties window with all three members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future finance-related permissions and role management.
+
 
 
 
