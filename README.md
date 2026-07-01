@@ -91,6 +91,7 @@ This screenshot shows the Active Directory Users and Computers (ADUC) console wi
 This screenshot shows the Active Directory Users and Computers (ADUC) console with the IT Department OU selected under the domain structure. It displays the organization of IT-related identities, including the IT Security Group and users such as IT Admin, IT Network Engineer, IT Support L1, and IT Support L2, demonstrating role-based access and structured user management within a Windows Server Active Directory environment.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/91504f1c53930ac35d7192edd660848793b140f4/Screenshot%202026-06-08%20105559.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Sales and Marketing” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Sales and added two user accounts: Sales Executive and Sales Manager. This screenshot shows these objects inside the Sales and Marketing OU, confirming that the group and user accounts were successfully created and organized in the correct location for future permission management and Group Policy configuration.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/0abb53e13761e341ffb874cec6fe0f85f85a373f/Screenshot%202026-06-08%20105613.png)
 
 
 
