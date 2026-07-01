@@ -101,6 +101,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Training and Learning” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Training and added two user accounts: Learning Specialist and Training Coordinator. This screenshot shows these objects inside the Training and Learning OU, confirming that the group and user accounts were successfully created and organized in the correct location for future training-related permissions and role assignments.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/948660b7ccad5ce4f1ddccf0312e0cfb693cfa89/Screenshot%202026-06-08%20114901.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “HR Department” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named HR Group and added three user accounts: HR Executive, HR Manager, and HR Recruiter. This screenshot shows the HR Group Properties window with all three members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future HR-related permissions and role management.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/a5f1ed310b476446bb3c6cf552d897c66f02d872/Screenshot%202026-06-08%20115138.png)
+
 
 
 
