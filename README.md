@@ -99,6 +99,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Support/Service Desk” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Support and added three user accounts: Support L1, Support L2, and Support Tech. This screenshot shows these objects inside the Support/Service Desk OU, confirming that the group and user accounts were successfully created and organized in the correct location for future helpdesk role assignments and permission management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/cfaa28b0ad4ed8314cf4a51a56b37409908a97d4/Screenshot%202026-06-08%20105657.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Training and Learning” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Training and added two user accounts: Learning Specialist and Training Coordinator. This screenshot shows these objects inside the Training and Learning OU, confirming that the group and user accounts were successfully created and organized in the correct location for future training-related permissions and role assignments.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/948660b7ccad5ce4f1ddccf0312e0cfb693cfa89/Screenshot%202026-06-08%20114901.png)
+
 
 
 
