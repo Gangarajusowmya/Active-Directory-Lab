@@ -115,6 +115,7 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Security/Cyber Security” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Security and added two user accounts: Security Analyst and Security Engineer. This screenshot shows the Security group properties window with both members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future security-related permissions and role management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/f601135f6c54d913a454917d69c7a9a9b4ac93a6/Screenshot%202026-06-08%20120125.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Support/Service Desk” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Support and added three user accounts: Support L1, Support L2, and Support Tech. This screenshot shows the Support group properties window with all three members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future helpdesk-related permissions and role management.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/7b1fde3096b28ea23b15404ff7456a6d58a07a35/Screenshot%202026-06-08%20120203.png)
 
 
 
