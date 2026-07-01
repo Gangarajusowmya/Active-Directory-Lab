@@ -93,6 +93,8 @@ This screenshot shows the Active Directory Users and Computers (ADUC) console wi
 In this step, I opened Active Directory Users and Computers and navigated to the “Sales and Marketing” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Sales and added two user accounts: Sales Executive and Sales Manager. This screenshot shows these objects inside the Sales and Marketing OU, confirming that the group and user accounts were successfully created and organized in the correct location for future permission management and Group Policy configuration.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/0abb53e13761e341ffb874cec6fe0f85f85a373f/Screenshot%202026-06-08%20105613.png)
 In this step, I opened Active Directory Users and Computers and navigated to the “Security/Cyber Security” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Security and added two user accounts: Security Analyst and Security Engineer. This screenshot shows these objects inside the Security/Cyber Security OU, confirming that the group and user accounts were successfully created and organized in the correct location for future permission management and security role assignments.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/b91cecd203d417580b4484487bd39ffe86a2ac5c/Screenshot%202026-06-08%20105628.png)
+
 
 
 
