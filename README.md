@@ -139,6 +139,7 @@ In this step, I continued the Windows setup process for my Client01 virtual mach
 In this step, I continued the Windows setup process for my Client01 virtual machine. Windows prompted me to confirm the local account password that I created during the installation. This screenshot shows the password confirmation stage of the Windows out‑of‑box experience, indicating that the Client01 workstation was completing its final setup steps before I proceeded with post‑installation configuration and domain joining in my Active Directory lab.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/e219cade6f6b3312a3f326a32bb79ae4cb61bfd1/Screenshot%202026-06-22%20191256.png)
 In this step, I completed the Windows installation for my Client01 virtual machine and reached the Windows 10 desktop for the first time. This screenshot shows Client01 fully booted inside Oracle VirtualBox with the default Windows 10 interface visible, confirming that the operating system installation was successful. With the VM now running normally, it is ready for post‑installation tasks such as configuring network settings, renaming the PC, and joining it to my Active Directory domain.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/11c694415c09be42fa19e9f9418346b384d3a916/Screenshot%202026-06-23%20093311.png)
 
 
 
