@@ -131,6 +131,7 @@ In this step, I reviewed the configuration details of my Client01 virtual machin
 In this step, I reviewed the configuration summary of my Client01 virtual machine in Oracle VirtualBox before starting the Windows 11 installation. The VM was powered off, and I confirmed its hardware and system settings, including 4 GB RAM, 2 processors, EFI with Secure Boot enabled, and the Windows 11 ISO mounted on the SATA controller. This screenshot shows the final pre‑installation check, ensuring that Client01 was correctly configured and ready to be used as the Windows 11 workstation in my Active Directory lab.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/9132f350471e4026b6a15f3cde504a0c77413e13/Screenshot%20(121).png)
 In this step, I started the Windows installation process for my Client01 virtual machine in Oracle VirtualBox. After mounting the Windows ISO, the VM booted into the Windows Setup screen where I selected the operating system edition to install. I chose Windows 10 Pro (x64) from the list of available versions. This screenshot confirms that the installation process began successfully and that Client01 was ready for the Windows setup phase before joining it to my Active Directory domain.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/13a15dbf8b36fa10532b319087ba64dd51b3e0d6/Screenshot%20(122).png)
 
 
 
