@@ -125,6 +125,8 @@ In this step, I opened the settings for my Client01 virtual machine in Oracle Vi
 In this step, I attached the Windows 11 installation ISO to my Client01 virtual machine in Oracle VirtualBox. I opened the VM settings, navigated to the Storage section, and added the Windows.iso file to the SATA controller as the optical drive. This screenshot shows the ISO successfully mounted, confirming that the VM is ready for the Windows 11 installation process and domain‑joining setup in my Active Directory lab.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/a55fff9a1eda2e3d889f3f79e8817d3191e59db8/Screenshot%20(102).png)
 In this step, I verified the Windows 11 installation ISO that I downloaded for setting up my Client01 workstation in VirtualBox. I opened the file properties for Windows.iso to confirm its size, location, and creation details before attaching it to the virtual machine. This screenshot shows the ISO stored in the Downloads folder with a size of 4.55 GB, confirming that the installation media was successfully downloaded and ready to be used for the Windows 11 setup in my Active Directory lab.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/298e8f6fcb6742de5b4404a94acd10991ac08d9e/Screenshot%20(104).png)
+
 
 
 
