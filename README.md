@@ -128,6 +128,8 @@ In this step, I verified the Windows 11 installation ISO that I downloaded for s
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/298e8f6fcb6742de5b4404a94acd10991ac08d9e/Screenshot%20(104).png)
 In this step, I reviewed the configuration details of my Client01 virtual machine in Oracle VirtualBox after attaching the Windows 11 ISO and powering it on. The VM summary shows the hardware and system settings, including 4 GB RAM, 2 processors, EFI with Secure Boot enabled, and the Windows.iso mounted on the SATA controller. This screenshot confirms that Client01 was successfully started with the correct configuration and is ready for the Windows 11 installation and domain‑joining process in my Active Directory lab.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/4a89d65655d4bd5c71ed40befdbc8ca031a8036b/Screenshot%20(106).png)
+In this step, I reviewed the configuration summary of my Client01 virtual machine in Oracle VirtualBox before starting the Windows 11 installation. The VM was powered off, and I confirmed its hardware and system settings, including 4 GB RAM, 2 processors, EFI with Secure Boot enabled, and the Windows 11 ISO mounted on the SATA controller. This screenshot shows the final pre‑installation check, ensuring that Client01 was correctly configured and ready to be used as the Windows 11 workstation in my Active Directory lab.
+
 
 
 
