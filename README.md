@@ -137,6 +137,7 @@ In this step, I continued the setup of my Client01 virtual machine after install
 In this step, I continued the Windows setup process for my Client01 virtual machine. After the installation completed, Windows prompted me to create a local user account for the device. I entered “Client01” as the name to keep the workstation identity consistent with the VM name. This screenshot shows the account‑creation stage of the Windows out‑of‑box experience, confirming that Client01 was successfully progressing through the final setup steps before joining it to my Active Directory domain.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/d8568efa3acaff9f8388b210a1e2c37d5c53ebee/Screenshot%202026-06-22%20190107.png)
 In this step, I continued the Windows setup process for my Client01 virtual machine. Windows prompted me to confirm the local account password that I created during the installation. This screenshot shows the password confirmation stage of the Windows out‑of‑box experience, indicating that the Client01 workstation was completing its final setup steps before I proceeded with post‑installation configuration and domain joining in my Active Directory lab.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/e219cade6f6b3312a3f326a32bb79ae4cb61bfd1/Screenshot%202026-06-22%20191256.png)
 
 
 
