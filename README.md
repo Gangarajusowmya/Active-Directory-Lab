@@ -119,6 +119,8 @@ In this step, I opened Active Directory Users and Computers and navigated to the
 In this step, I opened Active Directory Users and Computers and navigated to the “Training and Learning” Organizational Unit inside my custom “Sowmya IT Services” structure. I created a security group named Training and added two user accounts: Learning Specialist and Training Coordinator. This screenshot shows the Training group properties window with both members listed, confirming that the group and user accounts were successfully created and assigned to the correct OU for future training-related permissions and role management.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/472bcc00ac758574387a2c2dba67e032173a33ff/Screenshot%20(95).png)
 In this step, I began creating a new client virtual machine in Oracle VirtualBox to use as the Windows 11 workstation for my Active Directory lab. I named the VM “Client01,” selected the default VirtualBox VMs folder, and chose Windows 11 (64‑bit) as the operating system version. This screenshot shows the initial VM creation window before selecting the ISO and configuring the unattended installation settings, confirming the setup process for adding a client machine to the domain environment.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/26ca5b19d7b649cfea40236706794eafc8c6e2ff/Screenshot%20(98)%20-%20Copy.png)
+
 
 
 
