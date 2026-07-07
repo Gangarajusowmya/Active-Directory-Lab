@@ -133,6 +133,8 @@ In this step, I reviewed the configuration summary of my Client01 virtual machin
 In this step, I started the Windows installation process for my Client01 virtual machine in Oracle VirtualBox. After mounting the Windows ISO, the VM booted into the Windows Setup screen where I selected the operating system edition to install. I chose Windows 10 Pro (x64) from the list of available versions. This screenshot confirms that the installation process began successfully and that Client01 was ready for the Windows setup phase before joining it to my Active Directory domain.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/13a15dbf8b36fa10532b319087ba64dd51b3e0d6/Screenshot%20(122).png)
 In this step, I continued the setup of my Client01 virtual machine after installing Windows. The VM booted into the initial Windows welcome screen where Microsoft prompts the user to sign in or continue with a limited experience. This screenshot shows Client01 successfully running inside Oracle VirtualBox, confirming that the Windows installation completed and the VM is ready for post‑installation configuration before joining it to my Active Directory domain.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/69296cdc3194dc916604dd8918ee73335aad71aa/Screenshot%20(123).png)
+
 
 
 
