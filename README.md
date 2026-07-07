@@ -135,6 +135,8 @@ In this step, I started the Windows installation process for my Client01 virtual
 In this step, I continued the setup of my Client01 virtual machine after installing Windows. The VM booted into the initial Windows welcome screen where Microsoft prompts the user to sign in or continue with a limited experience. This screenshot shows Client01 successfully running inside Oracle VirtualBox, confirming that the Windows installation completed and the VM is ready for post‑installation configuration before joining it to my Active Directory domain.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/69296cdc3194dc916604dd8918ee73335aad71aa/Screenshot%20(123).png)
 In this step, I continued the Windows setup process for my Client01 virtual machine. After the installation completed, Windows prompted me to create a local user account for the device. I entered “Client01” as the name to keep the workstation identity consistent with the VM name. This screenshot shows the account‑creation stage of the Windows out‑of‑box experience, confirming that Client01 was successfully progressing through the final setup steps before joining it to my Active Directory domain.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/d8568efa3acaff9f8388b210a1e2c37d5c53ebee/Screenshot%202026-06-22%20190107.png)
+
 
 
 
