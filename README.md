@@ -123,6 +123,7 @@ In this step, I began creating a new client virtual machine in Oracle VirtualBox
 In this step, I opened the settings for my Client01 virtual machine in Oracle VirtualBox to prepare it for joining the Active Directory lab environment. I navigated to the Storage section and confirmed that the VM’s virtual hard disk (Client01.vdi) was attached to the SATA controller. I also verified that the optical drive was available for mounting the Windows 11 ISO during installation. This screenshot shows the storage configuration for Client01, confirming that the VM hardware setup was completed before installing the operating system.
 ![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/10ce145a75b0e81c1ef5156a13e7b9f246762f9e/Screenshot%20(101)%20-%20Copy.png)
 In this step, I attached the Windows 11 installation ISO to my Client01 virtual machine in Oracle VirtualBox. I opened the VM settings, navigated to the Storage section, and added the Windows.iso file to the SATA controller as the optical drive. This screenshot shows the ISO successfully mounted, confirming that the VM is ready for the Windows 11 installation process and domain‑joining setup in my Active Directory lab.
+![image alt](https://github.com/Gangarajusowmya/Active-Directory-Lab/blob/a55fff9a1eda2e3d889f3f79e8817d3191e59db8/Screenshot%20(102).png)
 
 
 
